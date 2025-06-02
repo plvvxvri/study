@@ -57,7 +57,8 @@
 
  ЗАДАЧА 3: Кросс-ревью
 
-Ссылка на комментарии:  
+Ссылка одногруппника:
+https://github.com/geminibitly32/review-practice--naumov-/blob/main/REVIEW_PLANNING.md
 
 
 Критерии оценки:
